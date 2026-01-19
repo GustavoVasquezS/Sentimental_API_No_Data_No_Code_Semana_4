@@ -177,5 +177,12 @@ La versión v4 incorpora un backend en Spring Boot con foco en seguridad, persis
 ```
 
 ***
+## 👥 Equipo
 
-Si quieres, en el siguiente mensaje se puede añadir una tabla de métricas (cuando tengas los resultados finales del test set de v4) y una sección de “Limitaciones y próximos pasos” similar a la del `README_ejemplo` para cerrar el documento con roadmap.
+Proyecto desarrollado por **"No Data - No Code"** en el marco del Hackatón **No Country** 🌎
+
+## 📄 Licencia
+
+Este proyecto está bajo licencia MIT.
+
+***
